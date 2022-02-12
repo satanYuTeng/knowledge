@@ -1,11 +1,16 @@
 {
   "name": "ast",
   "version": "1.0.0",
-  "description": "首先一段代码转换成的抽象语法树是一个对象，该对象会有一个顶级的 type 属性 Program；第二个属性是 body 是一个数组。",
+  "description": "ast",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11"
+  }
 }
