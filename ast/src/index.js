@@ -12,7 +12,7 @@ const arrowFnPlugin = {
   },
 };
 
-const r = babel.transform(code, {
+const r = babel.parseSync(code, {
   plugins: [arrowFnPlugin],
 });
 

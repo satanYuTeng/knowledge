@@ -14,6 +14,10 @@ gensync - https://www.npmjs.com/package/gensync
 [[转]babel到底该如何配置?](https://www.cnblogs.com/mjian/p/9427687.html)
 [你必须要知道的babel二三事](https://www.cnblogs.com/rynxiao/p/13665506.html)
 [babel详解（七）:配置文件](https://blog.liuyunzhuge.com/2019/09/09/babel%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%83%EF%BC%89-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/)
+[babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
+[babel源码阅读 ~ 准备工作](https://www.cnblogs.com/amnhhh/p/12857773.html)
+[babel源码分析之一：AST生成](https://segmentfault.com/a/1190000019019014)
+
 ## Q
 makefile ?? 
 benchmark ?? 
