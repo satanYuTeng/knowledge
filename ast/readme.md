@@ -14,6 +14,8 @@ https://astexplorer.net/
 [AST语法结构树初学者完整教程](https://juejin.cn/post/6844904126099226631)
 [babel-types](https://babeljs.io/docs/en/babel-types.html)
 [babel插件入门-AST](https://juejin.cn/post/6844903583549243406)
+[AST 语法记录
+](https://www.jianshu.com/p/4a370b038519)
 
 ## Q
 

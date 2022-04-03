@@ -18,6 +18,11 @@ gensync - https://www.npmjs.com/package/gensync
 [babel源码阅读 ~ 准备工作](https://www.cnblogs.com/amnhhh/p/12857773.html)
 [babel源码分析之一：AST生成](https://segmentfault.com/a/1190000019019014)
 
+[semver 语义化版本规范](https://www.jianshu.com/p/a7490344044f)
+[babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+[..](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
+[AST语法记录](https://www.jianshu.com/p/4a370b038519)
+
 ## Q
 makefile ?? 
 benchmark ?? 
